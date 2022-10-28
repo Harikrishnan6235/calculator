@@ -1,0 +1,17 @@
+.buttonbox{
+    width: 45%;
+    height: 45%;
+    margin-left: 29px;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(21, 14, 66);
+  box-shadow: 1px 1px 4px 1px black;
+  cursor: pointer;
+}
+.num{
+    color: white;
+  font-size: 25px;
+
+}
